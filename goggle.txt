@@ -1,0 +1,6 @@
+! name: Vishal Test Goggle
+! description: Boosts ranking for wikipedia and a few tech blogs/news sites.
+! public: false
+! author: Vishal
+
+$boost=1000,site=techcrunch.com
