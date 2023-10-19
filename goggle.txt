@@ -3,4 +3,4 @@
 ! public: false
 ! author: Vishal
 
-$boost=1000,site=techcrunch.com
+$boost=1000000,site=techcrunch.com
